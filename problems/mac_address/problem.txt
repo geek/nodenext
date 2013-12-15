@@ -1,0 +1,14 @@
+In version 0.11.x of node the mac address is now exposed
+in the 'os' module.  Write to stdout the value of the mac
+address of the first address of the network interface provided
+by the first argument to your program.
+
+
+When you have completed your server, you can run it in the test
+environment with:
+
+  {bold}{appname} run server.js{/bold}
+
+And once you are ready to verify it then run:
+
+  {bold}{appname} verify server.js{/bold}

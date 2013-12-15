@@ -1,0 +1,25 @@
+{
+  "name": "nodenext",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wpreul/nodenext"
+  },
+  "licenses": [
+    {
+        "type": "MIT",
+        "url": "http://github.com/wpreul/nodenext/raw/master/LICENSE"
+    }
+  ],
+  "bin": "./nodenext.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "workshopper": "0.4.x",
+    "hyperquest": "0.1.x"
+  },
+  "keywords": [
+    "workshopper"
+  ]
+}
