@@ -2,11 +2,5 @@
     "HTTP Methods",
     "MAC Address",
     "HTTP statusMessage",
-    "HTTP Agent",
-    "Events listenerCount",
-    "Streams",
-    "toArrayBuffer",
-    "Async Listener",
-    "Smalloc",
-    "Cluster"
+    "Events listenerCount"
 ]
