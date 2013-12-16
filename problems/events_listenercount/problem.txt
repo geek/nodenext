@@ -1,0 +1,14 @@
+The 'events' module now exposes a `listenerCount` function that
+will return the number of event listeners provided a emitter and an
+event name.  Create a http server with a requestListener then log
+to the console the number of 'request' listeners for the server.
+
+
+When you have completed your server, you can run it in the test
+environment with:
+
+  {bold}{appname} run server.js{/bold}
+
+And once you are ready to verify it then run:
+
+  {bold}{appname} verify server.js{/bold}
