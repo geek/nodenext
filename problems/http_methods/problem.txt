@@ -1,0 +1,12 @@
+The 'http' module now exposes all supported HTTP methods.  Log
+to stdout a JSON.stringify format of the available methods.
+
+
+When you have completed your server, you can run it in the test
+environment with:
+
+  {bold}{appname} run server.js{/bold}
+
+And once you are ready to verify it then run:
+
+  {bold}{appname} verify server.js{/bold}

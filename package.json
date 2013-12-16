@@ -16,8 +16,7 @@
     "node": "0.10.x"
   },
   "dependencies": {
-    "workshopper": "0.4.x",
-    "hyperquest": "0.1.x"
+    "workshopper": "0.4.x"
   },
   "keywords": [
     "workshopper"
